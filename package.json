@@ -1,0 +1,22 @@
+{
+  "name": "bookshelf-parsing-bug",
+  "version": "0.0.1",
+  "description": "Demonstration of a bug that breaks eager loading on models with a parse method that modifies attribute keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benesch/bookshelf-parsing-bug.git"
+  },
+  "author": "Nikhil Benesch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benesch/bookshelf-parsing-bug/issues"
+  },
+  "dependencies": {
+    "mysql": "~2.0.0-alpha9",
+    "bookshelf": "~0.5.7"
+  }
+}
