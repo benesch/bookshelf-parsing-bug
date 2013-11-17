@@ -17,6 +17,9 @@
   },
   "dependencies": {
     "mysql": "~2.0.0-alpha9",
-    "bookshelf": "~0.5.7"
+    "bookshelf": "~0.5.7",
+    "when": "~2.6.0",
+    "inflection": "~1.2.6",
+    "lodash": "~2.3.0"
   }
 }
